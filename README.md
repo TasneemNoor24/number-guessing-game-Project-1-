@@ -22,15 +22,10 @@ The player has to guess a randomly generated number within a limited number of a
 1. Open project in VS Code or any Java IDE (NetBeans / IntelliJ)
 2. Compile the program:
 3. Run the program:
-
+4. 
     ## 👨‍💻 Author
 - Tasneem Noor
 - Developed as part of Decode Internship
-
-
-
-
-
 
 
 
