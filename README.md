@@ -13,8 +13,6 @@ The player has to guess a randomly generated number within a limited number of a
 - 🖥️ Interactive GUI using Java Swing (JFrame)
 - 📉 Hints like "Too High" or "Too Low"
 
----
-
 ## 🛠️ Technologies Used
 - Java
 - Swing (JFrame, JButton, JLabel, JTextField)
