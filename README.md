@@ -34,16 +34,6 @@ The player has to guess a randomly generated number within a limited number of a
 
 
 
-
-
-
-
-
-
-
-
-
-
 16.
 17. S Code or any Java IDE (NetBeans / IntelliJ)
 18. Compile the file:
